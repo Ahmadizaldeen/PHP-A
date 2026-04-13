@@ -1,0 +1,2 @@
+1: XAMPP Control Panel v3.3.0 -> Apache Modul
+2: IDE: Notepad ++
