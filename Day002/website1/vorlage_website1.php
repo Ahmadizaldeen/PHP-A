@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset = "utf-8">
-	<title>Lotto spielen</title>
+	<title>Vorlage</title>
 	<style></style>
 	<link rel = "stylesheet" href = "css/style.css">
 	<script src = "js/script.js"></script>
@@ -15,7 +15,7 @@
 	</nav>
 	
 	<main>
-		<?php require_once "include/lotto_generator.php";	?>
+		<?php 	?>
 	</main>
 	<footer>
 		<p>&copy; Me, Myself & I 2026</p>
